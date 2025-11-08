@@ -11,7 +11,7 @@ Yes, you can fork this repository!
 No, this is a old version without Alpha, Alive, Jeevan and Dystopia
 
 # Have Wekiddy?
-Yes, as a Easter Egg!
+Yes, has a Easter Egg! It's [here](https://joalor64gh.github.io/Incredibox-0.2.7-Web-Hosted/app.html?v=9)!
 
 # Updates
 v1.1 Created repository
